@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://nickburrows.github.io/csb-ukybfe/static/css/main.23413797.chunk.css",
+    "main.js": "https://nickburrows.github.io/csb-ukybfe/static/js/main.e4960739.chunk.js",
+    "main.js.map": "https://nickburrows.github.io/csb-ukybfe/static/js/main.e4960739.chunk.js.map",
+    "runtime-main.js": "https://nickburrows.github.io/csb-ukybfe/static/js/runtime-main.fa8bb250.js",
+    "runtime-main.js.map": "https://nickburrows.github.io/csb-ukybfe/static/js/runtime-main.fa8bb250.js.map",
+    "static/css/2.55cde63d.chunk.css": "https://nickburrows.github.io/csb-ukybfe/static/css/2.55cde63d.chunk.css",
+    "static/js/2.5b7924a6.chunk.js": "https://nickburrows.github.io/csb-ukybfe/static/js/2.5b7924a6.chunk.js",
+    "static/js/2.5b7924a6.chunk.js.map": "https://nickburrows.github.io/csb-ukybfe/static/js/2.5b7924a6.chunk.js.map",
+    "index.html": "https://nickburrows.github.io/csb-ukybfe/index.html",
+    "static/css/2.55cde63d.chunk.css.map": "https://nickburrows.github.io/csb-ukybfe/static/css/2.55cde63d.chunk.css.map",
+    "static/css/main.23413797.chunk.css.map": "https://nickburrows.github.io/csb-ukybfe/static/css/main.23413797.chunk.css.map",
+    "static/js/2.5b7924a6.chunk.js.LICENSE.txt": "https://nickburrows.github.io/csb-ukybfe/static/js/2.5b7924a6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa8bb250.js",
+    "static/css/2.55cde63d.chunk.css",
+    "static/js/2.5b7924a6.chunk.js",
+    "static/css/main.23413797.chunk.css",
+    "static/js/main.e4960739.chunk.js"
+  ]
+}
